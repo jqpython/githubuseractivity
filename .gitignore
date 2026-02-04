@@ -1,0 +1,21 @@
+# Compiled files
+*.class
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+.DS_Store
+
+# Build directories
+bin/
+build/
+target/
+
+# Don't track personal test data (if any)
+test-output/
